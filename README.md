@@ -62,5 +62,3 @@ The datasets were sourced from Capital Bikeshare and cover the first six months 
 - **Start Station** (e.g., Wood St & Hubbard St)
 - **End Station** (e.g., Damen Ave & Chicago Ave)
 - **User Type** (Subscriber or Customer)
-
-Enjoy analyzing the bike share system data, and feel free to customize the analysis as needed!
