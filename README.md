@@ -26,7 +26,7 @@ In this project, you'll investigate bike share usage in Chicago, New York City, 
   - Most common day of the week
   - Most common hour of the day
 
-2.Popular Stations and Trips:
+2. Popular Stations and Trips:
   - Most common start station
   - Most common end station
   - Most common trip from start to end
