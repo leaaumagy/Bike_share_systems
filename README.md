@@ -4,7 +4,7 @@ This project allows you to explore data related to bike share systems for three 
 
 ## Installation
 
-### Prerequisites:
+### Prerequisite:
 - You need Python installed on your system to run the scripts.
 
 ### Steps to Install:
@@ -44,7 +44,7 @@ In this project, you'll investigate bike share usage in Chicago, New York City, 
   - Count of null values for each variable in the datasets.
 
 ## Guidelines
-To answer these questions using Python, the project contains a pre-written script template, with helper code and comments, in bike_investigator.py. You'll use this file to perform your analysis.
+To answer these questions using Python, the project contains a Python script, bike_investigator.py, with helper code and comments, to process the datasets. Additionally, there is a test_bike_investigator.py file, which evaluates the performance of the script. This ensures that the analysis can be adapted to other datasets with similar variables and the same units, or to continue analyzing the database as it evolves.
 
 ### Data Files:
 You will need three dataset files located in the ZIP folder Bike_raw_data:
